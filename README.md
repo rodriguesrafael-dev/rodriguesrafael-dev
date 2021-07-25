@@ -1,6 +1,8 @@
-### Hi there 👋
+# <Hello world /> 😎
 
 [LinkedIn](https://linkedin.com/in/rodriguesrafael-dev)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rodriguesrafael-dev/)](https://linkedin.com/in/rodriguesrafael-dev/) 
 
 <!--
 **rodriguesrafael-dev/rodriguesrafael-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
