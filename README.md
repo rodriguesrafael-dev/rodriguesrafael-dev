@@ -1,6 +1,4 @@
-# <Hello world /> 😎
-
-[LinkedIn](https://linkedin.com/in/rodriguesrafael-dev)
+# Hello world! 😎
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigues%20Rafael-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rodriguesrafael-dev/)](https://linkedin.com/in/rodriguesrafael-dev/) 
 
